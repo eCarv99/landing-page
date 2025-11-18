@@ -1,0 +1,49 @@
+body {
+    font-family: roboto;
+    border: 2px solid red;
+    display: flex;
+    width: 1000px;
+    height: 800px;
+}
+
+.header {
+    border: 2px solid red;
+    width: 1000px;
+    height: 100px;
+}
+
+.container {
+    border: 2px solid red;
+    width: 1000px;
+    height: 100px;
+}
+
+.section1 {
+    border: 2px solid red;
+    width: 50px;
+    height: 40px;
+}
+
+.section2 {
+    border: 2px solid red;
+    width: 50px;
+    height: 40px;
+}
+
+.section3 {
+    border: 2px solid red;
+    width: 50px;
+    height: 40px;
+}
+
+.section4 {
+    border: 2px solid red;
+    width: 50px;
+    height: 40px;
+}
+
+.footer {
+    border: 2px solid red;
+    width: 1000px;
+    height: 100px;
+}
